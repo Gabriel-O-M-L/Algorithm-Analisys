@@ -1,0 +1,22 @@
+# ninja log v5
+77	99	1652541686077915743	Analise_de_algortimos	b22b3665fd7752a2
+0	77	1652541686053916025	CMakeFiles/Analise_de_algortimos.dir/main.c.o	37117467f28b15f2
+0	25	1652541743849299169	build.ninja	4fbbe6b0490419a6
+0	51	1652542294071753593	CMakeFiles/Analise_de_algortimos.dir/main.c.o	37117467f28b15f2
+51	78	1652542294095753641	Analise_de_algortimos	b22b3665fd7752a2
+0	68	1652542452356199699	CMakeFiles/Analise_de_algortimos.dir/main.c.o	37117467f28b15f2
+68	88	1652542452376199770	Analise_de_algortimos	b22b3665fd7752a2
+0	60	1652542504432397297	CMakeFiles/Analise_de_algortimos.dir/main.c.o	37117467f28b15f2
+60	95	1652542504468397441	Analise_de_algortimos	b22b3665fd7752a2
+0	70	1652542538540538309	CMakeFiles/Analise_de_algortimos.dir/main.c.o	37117467f28b15f2
+70	93	1652542538564538412	Analise_de_algortimos	b22b3665fd7752a2
+0	62	1652542587376754839	CMakeFiles/Analise_de_algortimos.dir/main.c.o	37117467f28b15f2
+62	95	1652542587408754987	Analise_de_algortimos	b22b3665fd7752a2
+1	34	1652542599824812619	CMakeFiles/Analise_de_algortimos.dir/main.c.o	37117467f28b15f2
+34	53	1652542599844812713	Analise_de_algortimos	b22b3665fd7752a2
+0	37	1652542971714909770	CMakeFiles/Analise_de_algortimos.dir/main.c.o	37117467f28b15f2
+37	59	1652542971734909898	Analise_de_algortimos	b22b3665fd7752a2
+0	61	1652542984806993705	CMakeFiles/Analise_de_algortimos.dir/main.c.o	37117467f28b15f2
+61	99	1652542984842993936	Analise_de_algortimos	b22b3665fd7752a2
+0	31	1652543014111183449	CMakeFiles/Analise_de_algortimos.dir/main.c.o	37117467f28b15f2
+31	53	1652543014135183606	Analise_de_algortimos	b22b3665fd7752a2
